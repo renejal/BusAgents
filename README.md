@@ -1,0 +1,1 @@
+# creacion de imagne base para conecxion a sqlserver y azure
